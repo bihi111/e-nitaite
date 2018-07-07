@@ -1,13 +1,48 @@
 *{
 	color:red;
 	font-family: 'Roboto', sans-serif;
+	background-color: #00FFFF	;
+
 }
 h3{ 
+	background-color:red;
 	color:blue;
-	text-align:center;
-	font-size: 45px;
+	text-align:centre;
+	font-size: 30px;
 	}
 h1{ 
 	color:green;
-	text-align-last;
-	}
+   text-shadow: 5px 2px #FF0000;
+}
+
+.myclass{
+	color: #FFFAF0;
+	
+
+}
+li{
+	color: yellow;
+}
+h3:hover{
+	color: 	#008B8B	 ;
+}
+#list li{
+	color: red;
+}
+p:hover{
+	color:#FFD700;
+	font-size: 20px;	 
+
+}
+li:hover{
+	color: yellow;
+}
+.myclass2:hover{
+	font-size:30px;
+}
+
+body {
+	
+	margin-left: 100px;
+	margin-right: 100px;
+}
